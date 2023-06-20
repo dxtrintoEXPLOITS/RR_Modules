@@ -1,3 +1,4 @@
+--Update log
 return {
   "Removed A-60s Jumpscare temporarily";
   "Remastered A-15s Jumpscare";
